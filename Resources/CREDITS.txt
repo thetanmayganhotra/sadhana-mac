@@ -1,0 +1,2 @@
+Bell: synthesized singing bowl (scripts/make_bell.py).
+Voice: Microsoft Edge neural TTS (hi-IN-SwaraNeural) via edge-tts. See scripts/make_voice.py.
